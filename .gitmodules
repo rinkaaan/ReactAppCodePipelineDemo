@@ -1,0 +1,6 @@
+[submodule "ReactAppCodePipelineDemoCDK"]
+	path = ReactAppCodePipelineDemoCDK
+	url = git@github.com:rinkaaan/ReactAppCodePipelineDemoCDK.git
+[submodule "ReactAppCodePipelineDemoStaticAssets"]
+	path = ReactAppCodePipelineDemoStaticAssets
+	url = git@github.com:rinkaaan/ReactAppCodePipelineDemoStaticAssets.git
